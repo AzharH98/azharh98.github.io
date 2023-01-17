@@ -2,6 +2,9 @@
 title: "Button Mash NI"
 show_downloads: false
 ---
+
+![Crowd](/images/Crowd-Shot-19.jpg)
+
 ## WHAT IS BUTTON MASH?
 
 Button Mash is a not-for-profit community group located in Belfast, Northern Ireland, that brings together people from across the island of Ireland and farther afield, to nurture local home-grown talent and challenge each other across all kinds of fighting games, as well as providing a valuable community and social space for people to come out from behind their screens and meet each other in-person.
