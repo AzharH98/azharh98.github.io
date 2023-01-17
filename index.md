@@ -3,7 +3,7 @@ title: "Button Mash NI"
 show_downloads: false
 ---
 
-![Crowd](/images/Crowd-Shot-19.jpg)
+![Crowd](/images/Button-mash-logo-clear.png)
 
 ## WHAT IS BUTTON MASH?
 
